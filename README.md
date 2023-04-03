@@ -1,5 +1,4 @@
-# supergames
-first repository
+# SuperGames- Website
 
 Welcome to the repository for my website!
 
